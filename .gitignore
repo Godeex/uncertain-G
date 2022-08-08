@@ -1,0 +1,15 @@
+*.txt
+*.txt.gz
+*.o
+run
+.vscode
+index
+
+result/*.res
+result/*.i
+result/*.conv
+result/*.q
+result/*.png
+
+*.tmp
+*.temp
